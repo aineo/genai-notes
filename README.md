@@ -1,2 +1,2 @@
 # genai-notes
-Project with notebooks of applications of various GenAI models
+Notebooks with application of various GenAI models
